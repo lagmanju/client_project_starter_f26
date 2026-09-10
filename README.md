@@ -1,2 +1,2 @@
-# client_project_starter_f26
-jlagman cliten project SI 539
+# Client_Project_Starter_Code
+Starter code for the Fall 2026 & Winter 2027 Client Project
